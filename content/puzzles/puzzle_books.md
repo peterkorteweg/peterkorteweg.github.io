@@ -2,6 +2,10 @@
 
 Berlekamp, E.R., and Rodgers. T. (1999). [*The Mathemagician and Pied Puzzler*](https://www.goodreads.com/book/show/241475.The_Mathemagician_and_Pied_Puzzler). A K Peters.
 
+Haigh, J. (2003). [*Taking chances: winning with probability*](https://www.goodreads.com/book/show/1814074.Taking_Chances). Oxford University Press.
+
+Levitin, A., & Levitin, M. (2011). [*Algorithmic puzzles*](https://www.goodreads.com/book/show/10640251-algorithmic-puzzles). Oxford University Press.
+
 Pentagram (1989). [*Puzzlegrams*](https://www.goodreads.com/book/show/2636932-puzzlegrams). Fireside 
 
 Tijms, H. (2016) [*Kansrekening van Alledag, een Wereld vol Verrassingen*](https://www.epsilon-uitgaven.nl/wetenschappelijke-reeks/kansrekening-van-alledag-een-wereld-vol-verrassingen/11004). Epsilon Uitgaven
@@ -19,6 +23,14 @@ Winkler, P. (2003) [*Mathematical Puzzles. A Connoisseur's Collection*](https://
 Berlekamp, E.R., and Rodgers. T. (1999). *The Mathemagician and Pied Puzzler*. A K Peters.
 
 https://www.goodreads.com/book/show/241475.The_Mathemagician_and_Pied_Puzzler
+
+Haigh, J. (2003). *Taking chances: winning with probability*. Oxford University Press.
+
+https://www.goodreads.com/book/show/1814074.Taking_Chances
+
+Levitin, A., & Levitin, M. (2011). *Algorithmic puzzles*. Oxford University Press.
+
+https://www.goodreads.com/book/show/10640251-algorithmic-puzzles
 
 Pentagram (1989). *Puzzlegrams*. Fireside 
 

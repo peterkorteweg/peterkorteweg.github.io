@@ -9,11 +9,11 @@ type = 'page'
 
 **Book review**
 
-[Waarderingen zijn altijd subjectief](/publications/waarderingen/)
+[Waarderingen zijn altijd subjectief](/publications/waarderingen/) (In Dutch)
+
+
 
 **Practitioner journal**
-
-
 
 **Korteweg, P.** (2019). Universele benchmarking. Een betere verdeling van verantwoordelijkheden tussen mandaatgever en vermogensbeheerder. VBA Journaal (137), 41-45. [pdf](https://cfasociety.nl/uploads/2019/Voorjar%202019/PRAKTIJK%2004/Praktijk04_VBA%20Journaal%2001%20voorjaar%202019%20nr%20137-3.pdf)
 
