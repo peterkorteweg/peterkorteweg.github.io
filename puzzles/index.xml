@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Puzzles on Peter Korteweg</title>
+    <link>https://peterkorteweg.github.io/puzzles/</link>
+    <description>Recent content in Puzzles on Peter Korteweg</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://peterkorteweg.github.io/puzzles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://peterkorteweg.github.io/puzzles/puzzle_books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://peterkorteweg.github.io/puzzles/puzzle_books/</guid>
+      <description>Links&#xA;Berlekamp, E.R., and Rodgers. T. (1999). The Mathemagician and Pied Puzzler. A K Peters.&#xA;Pentagram (1989). Puzzlegrams. Fireside&#xA;Tijms, H. (2016) Kansrekening van Alledag, een Wereld vol Verrassingen. Epsilon Uitgaven&#xA;Wells, D. (1993). The Penguin books of curious and interesting puzzles. Penguin.&#xA;Winkler, P. (2003) Mathematical Puzzles. A Connoisseur&amp;rsquo;s Collection. A K Peters&#xA;Text and links&#xA;Berlekamp, E.R., and Rodgers. T. (1999). The Mathemagician and Pied Puzzler. A K Peters.</description>
+    </item>
+    <item>
+      <title>Airplane seats</title>
+      <link>https://peterkorteweg.github.io/puzzles/airplane_seats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://peterkorteweg.github.io/puzzles/airplane_seats/</guid>
+      <description>Question: An airplane with 100 seats is fully booked. Passengers enter the airplane one at a time. The first passenger cannot find their ticket, and chooses a random seat. Each next passenger sits on their own seat, or in case their seat is taken, chooses an available seat at random. What is the probability that the last passenger finds their own seat available?&#xA;Answer</description>
+    </item>
+    <item>
+      <title>Airplane seats</title>
+      <link>https://peterkorteweg.github.io/puzzles/airplane_seats_answer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://peterkorteweg.github.io/puzzles/airplane_seats_answer/</guid>
+      <description>Question: An airplane with 100 seats is fully booked. Passengers enter the airplane one at a time. The first passenger cannot find their ticket, and chooses a random seat. Each next passenger sits on their own seat, or in case their seat is taken, chooses an available seat at random. What is the probability that the last passenger finds their own seat available?&#xA;Answer $1/2$.&#xA;Consider the first passenger that find their seat taken by another passenger.</description>
+    </item>
+    <item>
+      <title>An imprecise coin</title>
+      <link>https://peterkorteweg.github.io/puzzles/imprecise_coin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://peterkorteweg.github.io/puzzles/imprecise_coin/</guid>
+      <description>Question: You would like to choose between two holiday destinations by flipping a coin. However, the only coin you have is not a perfect coin. How can you still use this coin to make a fair choice? How many coin flips does your solution require on average?&#xA;Answer</description>
+    </item>
+    <item>
+      <title>An imprecise coin</title>
+      <link>https://peterkorteweg.github.io/puzzles/imprecise_coin_answer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://peterkorteweg.github.io/puzzles/imprecise_coin_answer/</guid>
+      <description>Question: You would like to choose between two holiday destinations by flipping a coin. However, the only coin you have is not a perfect coin. How can you still use this coin to make a fair choice? How many coin flips does your solution require on average?&#xA;Answer: A single coin flip results in heads (H) or tails (T) with unknown probability. But for two consecutive coin flips the probability of HT equals the probability of TH.</description>
+    </item>
+    <item>
+      <title>Ants on a branch</title>
+      <link>https://peterkorteweg.github.io/puzzles/ants_on_branch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://peterkorteweg.github.io/puzzles/ants_on_branch/</guid>
+      <description>Question: In the middle of the forest lies a branch with a length of 1 meter, directed East-West. On the branch are randomly positioned 25 ants, each facing East or West. Ants walk 1cm per second. When two ants meet each other, both ants turn around and start walking in the other direction. How long should you wait, to be certain that ant #13 is off the branch?&#xA;Answer</description>
+    </item>
+    <item>
+      <title>Ants on a branch</title>
+      <link>https://peterkorteweg.github.io/puzzles/ants_on_branch_answer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://peterkorteweg.github.io/puzzles/ants_on_branch_answer/</guid>
+      <description>Question: In the middle of the forest lies a branch with a length of 1 meter, directed East-West. On the branch are randomly positioned 25 ants, each facing East or West. Ants walk 1cm per second. When two ants meet each other, both ants turn around and start walking in the other direction. How long should you wait, to be certain that ant #13 is off the branch?&#xA;Answer: Consider how much time is needed for all ants to walk off the branch.</description>
+    </item>
+    <item>
+      <title>The hiring problem</title>
+      <link>https://peterkorteweg.github.io/puzzles/hiring_problem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://peterkorteweg.github.io/puzzles/hiring_problem/</guid>
+      <description>Question: Your team wants to hire a new colleague. The team wants to interview at most $K$ persons, and candidates are interviewed one at a time. After each interview the team has to decide to hire or reject the candidate. How can your team maximize the probability of hiring the best candidate amongst $K$ persons?&#xA;Answer</description>
+    </item>
+    <item>
+      <title>The hiring problem</title>
+      <link>https://peterkorteweg.github.io/puzzles/hiring_problem_answer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://peterkorteweg.github.io/puzzles/hiring_problem_answer/</guid>
+      <description>Question: Your team wants to hire a new colleague. The team wants to interview at most $K$ persons, and candidates are interviewed one at a time. After each interview the team has to decide to hire or reject the candidate. How can your team maximize the probability of hiring the best candidate amongst $K$ persons?&#xA;Answer: first interview $R$ candidates and reject all. Then interview candidates until you find a candidate that is better than all of the first $R$ candidates.</description>
+    </item>
+    <item>
+      <title>Two envelopes</title>
+      <link>https://peterkorteweg.github.io/puzzles/two_envelopes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://peterkorteweg.github.io/puzzles/two_envelopes/</guid>
+      <description>Question: A quizmaster shows you two envelopes. He tells you that each envelope contains a sum of money, and the amount in one of the envelopes is twice the amount of the other envelope. You choose an envelope, and when you open it you see it contains €1000, in €100 notes. The quizmaster says that if you give him a €100 note, you may switch envelopes. Do you choose to switch?</description>
+    </item>
+    <item>
+      <title>Two envelopes</title>
+      <link>https://peterkorteweg.github.io/puzzles/two_envelopes_answer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://peterkorteweg.github.io/puzzles/two_envelopes_answer/</guid>
+      <description>Question: A quizmaster shows you two envelopes. He tells you that each envelope contains a sum of money, and the amount in one of the envelopes is twice the amount of the other envelope. You choose an envelope, and when you open it you see it contains €1000, in €100 notes. The quizmaster says that if you give him a €100 note, you may switch envelopes. Do you choose to switch?</description>
+    </item>
+  </channel>
+</rss>

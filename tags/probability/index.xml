@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Probability on Peter Korteweg</title>
+    <link>https://peterkorteweg.github.io/tags/probability/</link>
+    <description>Recent content in Probability on Peter Korteweg</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://peterkorteweg.github.io/tags/probability/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An imprecise coin</title>
+      <link>https://peterkorteweg.github.io/puzzles/imprecise_coin_answer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://peterkorteweg.github.io/puzzles/imprecise_coin_answer/</guid>
+      <description>Question: You would like to choose between two holiday destinations by flipping a coin. However, the only coin you have is not a perfect coin. How can you still use this coin to make a fair choice? How many coin flips does your solution require on average?&#xA;Answer: A single coin flip results in heads (H) or tails (T) with unknown probability. But for two consecutive coin flips the probability of HT equals the probability of TH.</description>
+    </item>
+  </channel>
+</rss>

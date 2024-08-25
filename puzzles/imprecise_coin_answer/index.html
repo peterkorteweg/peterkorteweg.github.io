@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en"><head>
-	<meta name="generator" content="Hugo 0.127.0">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -18,26 +17,26 @@
     
 
     
-    <title>Peter Korteweg</title>
+    <title>An imprecise coin</title>
     <meta name="description" content="I am a quant who collects photobooks and mathematical puzzles.">
-    <meta name="keywords" content='peter korteweg'>
+    <meta name="keywords" content='peter korteweg, coin flipping, probability, Petersburg paradox'>
 
-    <meta property="og:url" content="https://peterkorteweg.github.io/">
+    <meta property="og:url" content="https://peterkorteweg.github.io/puzzles/imprecise_coin_answer/">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Peter Korteweg">
+    <meta property="og:title" content="An imprecise coin">
     <meta property="og:description" content="I am a quant who collects photobooks and mathematical puzzles.">
     <meta property="og:image" content="https://peterkorteweg.github.io/images/CoitTower.jpg">
     <meta property="og:image:secure_url" content="https://peterkorteweg.github.io/images/CoitTower.jpg">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Peter Korteweg">
+    <meta name="twitter:title" content="An imprecise coin">
     <meta name="twitter:description" content="I am a quant who collects photobooks and mathematical puzzles.">
-    <meta property="twitter:domain" content="https://peterkorteweg.github.io/">
-    <meta property="twitter:url" content="https://peterkorteweg.github.io/">
+    <meta property="twitter:domain" content="https://peterkorteweg.github.io/puzzles/imprecise_coin_answer/">
+    <meta property="twitter:url" content="https://peterkorteweg.github.io/puzzles/imprecise_coin_answer/">
     <meta name="twitter:image" content="https://peterkorteweg.github.io/images/CoitTower.jpg">
 
     
-    <link rel="canonical" href="https://peterkorteweg.github.io/">
+    <link rel="canonical" href="https://peterkorteweg.github.io/puzzles/imprecise_coin_answer/">
 
     
     <link rel="stylesheet" type="text/css" href="/css/normalize.min.css" media="print">
@@ -149,48 +148,21 @@
     </nav>
 </header>
 <main id="content">
-<section class="home-about">
-	<div class="avatar">
-        
-        <img class=size-m src='/images/CoitTower.jpg' alt="avatar">
-        
-	</div>
-
-    <h1>Peter Korteweg</h1>
-    
-        <h3>I am a quant who collects photobooks and mathematical puzzles.</h3>
     
 
-</section>
+    <div class="post container">
 
-<div class="flex-break"></div>
+    <div class="post-header-section">
+        <h1>An imprecise coin</h1>
+    </div>
 
+    <div class="post-content">
+        <p><strong>Question:</strong> You would like to choose between two holiday destinations by flipping a coin. However, the only coin you have is not a perfect coin. How can you still use this coin to make a fair choice? How many coin flips does your solution require on average?</p>
+<p><a href="/puzzles/imprecise_coin/"><strong>Answer</strong></a>: A single coin flip results in heads (H) or tails (T) with unknown probability. But for two consecutive coin flips the probability of HT equals the probability of TH. Use the coin as follows: flip the coin twice: if the outcome is HT, choose the first destination, and if the outcome is TH choose the second destination. If the outcome is HH or TT, repeat the above.</p>
+<p>While this solution works, there is a problem. The probability of the outcomes HT or TH is $2 p_k p_m \leq 1/2$.  The expected number of coin flips is thus at least $\frac{1}{2} * 2 + \frac{1}{2} * \frac{1}{2} * 4 + &hellip; = 1+1+1+ &hellip;$.</p>
 
-<div class="social-icons">
-    <ul class="social-icons-list">
-        
-        <li class="social-icon">
-            <a href="https://github.com/peterkorteweg"  aria-label="Learn more on github">
-                <img class="svg-inject" src="/svg/icons/github.svg" alt="">
-            </a>
-        </li>
-        
-        <li class="social-icon">
-            <a href="https://www.goodreads.com/review/list/171184162-peter?order=d&amp;shelf=quant&amp;sort=avg_rating"  aria-label="Learn more on rss">
-                <img class="svg-inject" src="/svg/icons/rss.svg" alt="">
-            </a>
-        </li>
-        
-        <li class="social-icon">
-            <a href="https://www.linkedin.com/in/peterkorteweg/"  aria-label="Learn more on linkedin">
-                <img class="svg-inject" src="/svg/icons/linkedin.svg" alt="">
-            </a>
-        </li>
-        
-    </ul>
+    </div>
 </div>
-
-
 
 
 
