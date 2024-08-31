@@ -18,3 +18,5 @@ For $K=100$, $R \approx \frac{K}{e}-1 \approx 36$.
 This puzzle is known as the [Secretary Problem](https://en.wikipedia.org/wiki/Secretary_problem); see the link for the exact formula to calculate $R$. 
 
 The solution also shows the disadvantage of interviewing candidates one at a time: the first $R$ candidates interviewed never have a chance to be hired as they become the benchmark to beat!
+
+Source: [Haigh](/puzzles/#literature).
