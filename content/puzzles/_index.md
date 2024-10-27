@@ -17,9 +17,13 @@ A collection of mathematical puzzles.
 
 [Bouldering shoes](/puzzles/bouldering_shoes/)
 
+[The birthday](/puzzles/birthday/)
+
 [The hiring  problem](/puzzles/hiring_problem/)
 
 [The mountain hiker](/puzzles/mountain_hiker/)
+
+[Two approximations](/puzzles/approximations/)
 
 [Two envelopes](/puzzles/two_envelopes/)
 
