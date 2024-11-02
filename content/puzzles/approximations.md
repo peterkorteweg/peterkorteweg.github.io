@@ -1,7 +1,7 @@
 +++
 
 title = 'Approximation puzzles'
-draft = true
+draft = false
 type = 'page'
 
 +++

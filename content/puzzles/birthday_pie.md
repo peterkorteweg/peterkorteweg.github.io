@@ -1,7 +1,7 @@
 +++
 
 title = 'The birthday pie'
-draft = true
+draft = false
 type = 'page'
 
 +++

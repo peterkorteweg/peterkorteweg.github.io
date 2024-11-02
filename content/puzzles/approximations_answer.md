@@ -1,7 +1,7 @@
 +++
 
 title = 'Approximation puzzles'
-draft = true
+draft = false
 type = 'page'
 
 +++
@@ -37,5 +37,4 @@ This means that the slope of $g$ is increasing faster than the slope of $f$ for 
 
 
 ![E to power of pi](/images/e_to_power_pi.jpg) 
-
 
