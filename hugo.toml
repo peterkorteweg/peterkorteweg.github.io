@@ -38,7 +38,7 @@ theme = 'gokarna'
   
   accentColor = '#0048ba'  # Accent color is displayed when you hover over <a> tags
   
-  dateFormat = 'January 2006'
+  dateFormat = 'January 2024'
     
   metaKeywords = ["peter korteweg"] # Keywords relevant for SEO
       
