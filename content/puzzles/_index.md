@@ -19,6 +19,8 @@ A collection of mathematical puzzles.
 
 [The birthday](/puzzles/birthday/)
 
+[The birthday pie](/puzzles/birthday_pie/)
+
 [The hiring  problem](/puzzles/hiring_problem/)
 
 [The mountain hiker](/puzzles/mountain_hiker/)
