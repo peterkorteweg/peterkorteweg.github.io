@@ -1,7 +1,7 @@
 +++
 
 title = 'The birthday'
-draft = true
+draft = false
 type = 'page'
 
 +++
