@@ -3,7 +3,7 @@
 title = 'The birthday pie'
 draft = false
 type = 'page'
-tags = ['algebra', calculus']
+tags = ['algebra', 'calculus']
 
 +++
 
