@@ -2,6 +2,7 @@
 title = 'The mountain hiker'
 draft = false
 type = 'page'
+tags = ['calculus']
 
 +++
 

@@ -3,6 +3,7 @@
 title = 'Airplane seats'
 draft = false
 type = 'page'
+tags = ['probability']
 
 +++
 

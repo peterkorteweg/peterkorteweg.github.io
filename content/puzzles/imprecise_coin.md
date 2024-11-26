@@ -2,6 +2,7 @@
 title = 'An imprecise coin'
 draft = false
 type = 'page'
+tags = ['coins', 'probability']
 
 +++
 

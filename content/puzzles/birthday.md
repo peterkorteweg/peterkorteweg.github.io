@@ -3,6 +3,7 @@
 title = 'The birthday'
 draft = false
 type = 'page'
+tags = ['logic']
 
 +++
 

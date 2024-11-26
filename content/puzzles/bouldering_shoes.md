@@ -2,6 +2,7 @@
 title = 'Bouldering shoes'
 draft = false
 type = 'page'
+tags = ["approximations"]
 
 +++
 

@@ -2,6 +2,7 @@
 title = 'Young Gauss'
 draft = false
 type = 'page'
+tags = ['arithmetic']
 
 +++
 

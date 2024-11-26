@@ -2,6 +2,7 @@
 title = 'Two envelopes'
 draft = false
 type = 'page'
+tags = ['probability']
 
 +++
 

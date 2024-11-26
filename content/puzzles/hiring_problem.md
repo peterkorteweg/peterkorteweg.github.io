@@ -2,6 +2,7 @@
 title = 'The hiring problem'
 draft = false
 type = 'page'
+tags = ['approximations']
 
 +++
 
