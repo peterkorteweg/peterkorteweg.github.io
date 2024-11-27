@@ -2,7 +2,7 @@
 
 title = 'The birthday'
 draft = false
-type = 'page'
+type = 'post'
 tags = ['logic']
 
 +++

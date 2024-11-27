@@ -2,7 +2,7 @@
 
 title = 'The birthday pie'
 draft = false
-type = 'page'
+type = 'post'
 tags = ['algebra', 'calculus']
 
 +++

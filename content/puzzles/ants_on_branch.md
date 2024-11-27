@@ -1,7 +1,7 @@
 +++
 title = 'Ants on a branch'
 draft = false
-type = 'page'
+type = 'post'
 tags = ['logic']
 
 +++
