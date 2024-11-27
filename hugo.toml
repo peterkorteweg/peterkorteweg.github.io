@@ -48,10 +48,12 @@ theme = 'gokarna'
 	  {name = 'linkedin', url = 'https://www.linkedin.com/in/peterkorteweg/'},      
     ]
 	
-  [params.hiddenTags]
+  [params.hiddenTags]  # Does not seem to work
+  tags = ["puzzles"]
   tagsHidePostDate = ["puzzles"]
 
-  [params.hidden]
+  [params.hidden]  # Does not seem to work
+  tags = ["puzzles"]
   tagsPostDate = ["puzzles"]
 
 customHeadHTML = '''
