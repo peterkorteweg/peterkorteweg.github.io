@@ -48,6 +48,9 @@ theme = 'gokarna'
 	  {name = 'linkedin', url = 'https://www.linkedin.com/in/peterkorteweg/'},      
     ]
 	
+  [params.hiddenTags]
+  tagsHidePostDate = ["puzzles"]
+
   [params.hidden]
   tagsPostDate = ["puzzles"]
 
