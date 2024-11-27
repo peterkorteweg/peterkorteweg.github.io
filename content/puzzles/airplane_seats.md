@@ -2,7 +2,7 @@
 
 title = 'Airplane seats'
 draft = false
-type = 'post'
+type = 'page'
 tags = ['probability']
 
 +++

@@ -1,7 +1,7 @@
 +++
 title = 'The mountain hiker'
 draft = false
-type = 'post'
+type = 'page'
 tags = ['calculus']
 
 +++

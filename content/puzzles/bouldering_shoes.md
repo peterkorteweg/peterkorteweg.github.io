@@ -1,7 +1,7 @@
 +++
 title = 'Bouldering shoes'
 draft = false
-type = 'post'
+type = 'page'
 tags = ["approximations"]
 
 +++

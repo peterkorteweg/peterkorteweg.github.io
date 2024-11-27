@@ -1,7 +1,7 @@
 +++
 title = 'An imprecise coin'
 draft = false
-type = 'post'
+type = 'page'
 tags = ['coins', 'probability']
 
 +++

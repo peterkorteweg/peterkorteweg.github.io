@@ -1,7 +1,8 @@
 +++
 title = 'Puzzles'
-draft = false
+draft = true
 type = 'post'
 
 +++
 
+Draft for posts. Todo: remove date and tags from posts.

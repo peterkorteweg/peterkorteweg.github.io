@@ -1,7 +1,7 @@
 +++
 title = 'Young Gauss'
 draft = false
-type = 'post'
+type = 'page'
 tags = ['arithmetic']
 
 +++

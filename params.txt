@@ -1,0 +1,7 @@
+  [params.hiddenTags]  # Does not seem to work
+  tags = ["puzzles"]
+  tagsHidePostDate = ["puzzles"]
+
+  [params.hidden]  # Does not seem to work
+  tags = ["puzzles"]
+  tagsPostDate = ["puzzles"]

@@ -2,7 +2,7 @@
 
 title = 'Approximation puzzles'
 draft = false
-type = 'post'
+type = 'page'
 tags = ['approximations']
 
 +++

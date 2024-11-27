@@ -1,7 +1,7 @@
 +++
 title = 'The hiring problem'
 draft = false
-type = 'post'
+type = 'page'
 tags = ['approximations']
 
 +++

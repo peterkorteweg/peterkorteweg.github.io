@@ -1,7 +1,7 @@
 +++
 title = 'Two envelopes'
 draft = false
-type = 'post'
+type = 'page'
 tags = ['probability']
 
 +++
