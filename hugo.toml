@@ -16,7 +16,7 @@ theme = 'gokarna'
 
   [[menu.main]]
     identifier = 'puzzles'
-    url = '/puzzle/'
+    url = '/puzzles/'
 	name = 'Puzzles'
     weight = 2
 	
