@@ -14,7 +14,7 @@ type = 'page'
 
 **Answer 1:**  $n^{n+1} > (n+1)^n$ for $n=2024$. 
 
-Assume  $n^{n+1} > (n+1)^n$ which is equivalent to $n$ > $\frac{{n+1}^n}{n^n} = (1+\frac{1}{n})^n$. The function $(1+\frac{1}{n})^n$ is a monotone increasing function, and it can be shown that $\lim_{n \to \infty}(1+\frac{1}{n})^n=e$, a well-known limit. Hence, it is clear that the statement holds for $n=2024$. 
+Assume  $n^{n+1} > (n+1)^n$ which is equivalent to $n$ > $\frac{(n+1)^n}{n^n} = (1+\frac{1}{n})^n$. The function $(1+\frac{1}{n})^n$ is a monotone increasing function, and it can be shown that $\lim_{n \to \infty}(1+\frac{1}{n})^n=e$, a well-known limit. Hence, it is clear that the statement holds for $n=2024$. 
 
 The proof of the limit follows from de l'Hospital:  $\lim_{h \to 0}\frac{\ln(1+h)}{h}=1$. Replace $h$ with $1/n$ then this limit is equivalent to: $\lim_{n \to \infty}\frac{\ln(1+1/n)}{1/n}=1$. Let $x_n=n \cdot \ln(1+1/n)$ and we have $\lim_{n \to \infty}x_n=1$, and $\lim_{n \to \infty}e^{x_n}=e$ because $e^x$ is a continuous function. Therefore $\lim_{n \to \infty}(1+\frac{1}{n})^n=\lim_{n \to \infty}e^{x_n}=e$.
 
