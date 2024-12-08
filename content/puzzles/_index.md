@@ -17,6 +17,10 @@ A collection of mathematical puzzles.
 
 [Bouldering shoes](/puzzles/bouldering_shoes/)
 
+[Every day is someone's birthday](/puzzles/birthday_every_day/)
+
+[No birthdays](/puzzles/birthday_no/)
+
 [The birthday](/puzzles/birthday/)
 
 [The birthday pie](/puzzles/birthday_pie/)
