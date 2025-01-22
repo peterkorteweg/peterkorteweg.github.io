@@ -7,9 +7,9 @@ tags = ['probability']
 
 +++
 
-![New Yorker, Amy Huang](/images/NewYorker_AmyHuang_Birthday.jpg) 
+![New Yorker, Amy Hwang](/images/NewYorker_AmyHwang_Birthday.jpg) 
 
-[Copyright: Amy Huang](https://condenaststore.com/featured/everyday-is-someones-birthday-amy-hwang.html)
+[Copyright: Amy Hwang](https://condenaststore.com/featured/everyday-is-someones-birthday-amy-hwang.html)
 
 **Question:** "When you work at a multi-billion dollar company, it's someone's birthday every day." How many employees do you need to have, in expectation, a birthday every day?
 
